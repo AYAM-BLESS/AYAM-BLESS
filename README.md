@@ -18,7 +18,7 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYAM-BLESS&theme=tokyonight&layout=compact&hide_border=true&langs_count=6"/>
 </a>
 <a href="ttps://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=blessbissong&theme=tokyonight&hide_border=true&line_height=30/"> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@blessbissong&theme=tokyonight&hide_border=true&line_height=30/"> 
 </a>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AYAM-BLESS&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&locale=en" alt="BLESS B." /></p>
