@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... **football, music, and video games**
 - 📫 How to reach me: ... **blessbissong@gmail.com**
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/AYAM-BLESS/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AYAM-BLESS&theme=tokyonight)
 ![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AYAMB-BLESS&theme=tokyonight&layout=compact&hide_border=true&langs_count=6)
