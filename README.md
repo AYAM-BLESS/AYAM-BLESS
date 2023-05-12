@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... **blessbissong@gmail.com**
 
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AYAM-BLESS&theme=tokyonight)
+![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AYAMB-BLESS&theme=tokyonight&layout=compact&hide_border=true&langs_count=6)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYAM-BLESS&theme=tokyonight&layout=compact&hide_border=true&langs_count=6"/>
 </a>
@@ -24,3 +27,5 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AYAM-BLESS&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&locale=en" alt="BLESS B." /></p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AYAM-BLESS&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AYAM-BLESS&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
