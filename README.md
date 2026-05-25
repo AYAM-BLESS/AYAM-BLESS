@@ -4,7 +4,7 @@
 -->
 
 Here are some ideas to get you started:
-- 🎯 My Goal is atleast **200 contribution yearly**
+- 🔭 I’m currently working on ... **Python and Machine Learning**
 - 🔭 I’m currently working on ... **frontend development**
 - 🌱 I’m currently learning ... **C , C++ programming, Javascript, Java and CSS**
 - 👯 I’m looking to collaborate on ... **frontend projects and backend**
